@@ -167,6 +167,7 @@ PENCARIAN PRODUK
     }
 
 PENCARIAN KATA
+
     import java.util.ArrayList; // Mengimpor kelas ArrayList untuk menyimpan koleksi data
     import java.util.Scanner; // Mengimpor kelas Scanner untuk input dari pengguna
 
